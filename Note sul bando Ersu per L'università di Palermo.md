@@ -9,4 +9,4 @@ Se non si riescono a soddisfare entrambi i requisiti si dovrà restituire il qua
 Link:
 - <https://www.instagram.com/p/CtqpIGuMdPW/>
 
-CFU, bando, ersu, borsa di studio, 
+Università, Palermo, CFU, bando, ersu, borsa di studio, 

@@ -2,5 +2,5 @@ La realtà è così complessa da non non poter essere studiata scomponendola in 
 
 Correlati:
 
-* [Proprietà emergenti](/?q=Propriet%C3%A0+emergenti)
+* [Proprietà emergenti](?q=Propriet%C3%A0+emergenti)
  

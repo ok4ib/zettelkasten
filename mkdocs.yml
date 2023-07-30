@@ -1,0 +1,43 @@
+site_name: Wise Inputs
+plugins:
+  - search:
+      lang: it
+theme:
+  language: it
+  favicon: favicon.png
+  icon:
+    logo: fontawesome/solid/book
+  features:
+    - search.suggest
+    - search.share
+  name: material
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: black
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: black
+
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+use_directory_urls: false
+nav:
+  - Home: README.md
+  - Licenza: LICENSE.md
+repo_url: https://github.com/ok4ib/zettelkasten

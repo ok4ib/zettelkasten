@@ -8,7 +8,7 @@ tags: lavatrice, lavaggio, indumenti, vestiti, cotone, minimalismo, ammorbidente
 
 risorse:
 
-- [fonte sulle temperature] (https://www.siemens-home.bsh-group.com/it/inspiration/blog/come-fare-la-lavatrice-guida-completa)
+- [fonte sulle temperature](https://www.siemens-home.bsh-group.com/it/inspiration/blog/come-fare-la-lavatrice-guida-completa)
 
 - [fonte sull'ammorbidente](https://www.donnad.it/per-cosa-si-usa-ammorbidente-capi)
 

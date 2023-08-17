@@ -10,7 +10,9 @@ Esercizi per lo stretching degli addominali:
 2. Twisted cobra pose
 
 Cerca:
+
 - [Cerca stretching](?q=stretching)
 
 Risorse:
+
 - [Stretching per gli addominali](https://www.danieleanelli.it/stretching-addominali/)

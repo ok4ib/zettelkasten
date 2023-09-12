@@ -40,3 +40,24 @@ With their plastic gloves,
 coddling and digging
 their way down your chest.
 ```
+## I got myself deleted.
+```
+I thought this when I hit bottom.
+I felt overwritten, 
+Blurred by my wisdom.
+
+And I feel like no one can bring me back
+to when I didn't have access to that
+part of me.
+
+Why did I turn this way?
+What did you do to that kid?
+
+I wasn't supposed to dream that much.
+I had to stick to reality.
+I didn't have to want it so badly.
+I shouldn't have had to obsess.
+
+This is the price I'm paying.
+This is the price of freedom.
+```

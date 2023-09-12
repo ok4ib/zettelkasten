@@ -2,4 +2,4 @@ Lo script upload.sh è stato inserito all'interno delle cartella in modo tale da
 
 risorse:
 	- [script](upload.sh)
-	- [versione online dello zettelkasten](wiseinputs.com)
+	- [versione online dello zettelkasten](https://wiseinputs.com)

@@ -40,4 +40,3 @@ use_directory_urls: false
 nav:
   - Home: README.md
   - Licenza: LICENSE.md
-repo_url: https://github.com/ok4ib/zettelkasten

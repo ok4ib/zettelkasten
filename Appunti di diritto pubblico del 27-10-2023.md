@@ -1,4 +1,3 @@
-# Sistemi elettorali
 Sono meccanismi attrverso i quali trasformiamo i voti in seggi. Viviamo in comunità rette da organismi rappresentativi. Lo facciamo attraverso le elezioni. Rapporto fra il legislatore ed il corpo elettorale. Come avviene il voto? Due concetti sono fondamentali. Il concetto di formula elettorale ed il concetto di colleggio elettorale. Colleggio, numeri di soggetti da eleggere. Possiamo avere colleggi plurinominali. La formula, formula matematica. Formule magioritarie e formule proporzionali. Le formule proporzionali tendono a riprodurre la stessa distribuzione fra eletti ed elettori. Si usa un metodo proporzionale. Come sono distribuiti i seggi. Collegio plurinominale.
 
 Nelle formule maggioritarie, il vincitore vince tutto, tutti i seggi in palio. La formula maggioritaria è collegata col collegio uninominale. Ne abbiamo due, maggioritario a turno unico e maggioritario a turno. 

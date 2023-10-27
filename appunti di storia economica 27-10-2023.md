@@ -1,4 +1,3 @@
-# Appunti di storia economica
 
 Quali sono le variabili che si prendono in considerazione riguardo i cicli economici?
 

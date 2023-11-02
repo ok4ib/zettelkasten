@@ -4,4 +4,4 @@ Per usare questo sito prova a cliccare sulla barra di ricerca in alto a destra o
 
 ## Appunti di storia economica
 
-Per cercare [appunti di storia economica clicca qui](https://wiseinputs.com/?q="storia"+"economica")
+Per cercare [appunti di storia economica clicca qui](https://wiseinputs.com/?q=storia+economica)

@@ -13,3 +13,5 @@ Oppio. L'uso diventa talmente diffusso che anche le classi meno agiate chiedono 
 Cortina della tortilla. Linea di confine fra america nel nord e sud. Ci sta una linea con delle bare. Cash crops, piantaggioni adibite a colture da reddito. 
 
 Encomienda, Encomendiera. Le encomiende diventando haciendas, aziende. Economie di enclave. 
+
+

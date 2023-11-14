@@ -16,7 +16,7 @@ May the world never find your doll.
 ```
 ## I had a dream of an angel.
 
-```Text
+```
 My eyes won't mirror him.
 When dreams will fall from the sky,
 no angel's face will see me.

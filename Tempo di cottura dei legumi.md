@@ -1,4 +1,5 @@
 - fave secche 70 minuti
+- fave secche ammollate 50 minuti
 - piselli secchi 50 minuti
 - orzo perlato secco 50 minuti
 - lenticchie secche 30 minuti

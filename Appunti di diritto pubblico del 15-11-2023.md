@@ -35,3 +35,15 @@ Struttura ad albero, riserva di legge e riserva di legge costituzionale. La rise
 fra fonti pariordinate prevale quella più recente. 
 
 La legge di sanatoria. Riserva di legge ordinaria e formale. Legge ordinaria. Riserva di legge assoluta e relativa. La legge deve disciplinare nel dettaglio i casi e i modi in cui la libertà personale può essere violata. La 
+
+Venerdì non ci sarà lezione. 
+
+L'istituto della riserva è quello strumento attraverso il quale la costituzione regola il concorso tra le fonti ad un certo atto fonte. Le riserve di legge si trovano in costituzione. Regola il concorso fra le fonti a competenza generale. Tutte fonti che in astratto si possono occupare delle stesse cose. riserve di legge.
+
+## Funzione, la razio della riserva di legge. 
+
+Le riserve di legge formale. Rapporto parlamento Governo.
+
+attività del governo ha il principio di riservatezza. L'atto normativo fatto dal governo è fatto all'oscuro. Il consiglio dei ministri. 
+
+Le 3 garanzie prova  

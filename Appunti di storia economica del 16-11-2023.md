@@ -15,3 +15,11 @@ Il lavoro è l'attitudine di svolgere un'azione. La forza lavoro è considerare 
 ## Economia pianificata
 
 Stalin abolisce tutto quello che ha fatto Lenin. Collettivizzazione delle terre. Agricoltura asservita allo sviluppo industriale. 
+
+Comunismo di guerra, pianificazione industriale. La russia importa la teconologia da altri paesi, per poterla usare. Si sviluppa l'industria meccanica. Lo sviluppo industriale si ha grazie al gosplan 
+
+Ruggenti anni venti, fordismo, taylorismo. La crisi del 29 è stata l'evento più disastroso di tutti i tempi.  
+
+Effetti della produzione: disoccupazione, produzione dimezzata, merci invendute.
+
+Hoover si circonda di economisti. 

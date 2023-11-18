@@ -1,3 +1,21 @@
+
+## Il sapore della cenere
+```
+C'è in te tutto il mio dolore
+e in me il seme di questa gente.
+
+Sono io la tua ragione per partire
+e tu la mia di rinascere.
+
+Non specchiarti nei miei occhi
+mentre mi lascio morire da questo posto.
+
+Non lasciar spegnere la fiamma
+al mio libro mezzo bruciato.
+
+Ti farò sentire il sapore della cenere.
+```
+
 ## There is a heaven.
 ```
 There is a heaven; believe me, I've seen it.

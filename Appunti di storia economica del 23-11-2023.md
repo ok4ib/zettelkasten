@@ -42,3 +42,11 @@ Man mano che andiamo avanti vediamo che l'uso della matematica nell'economia aum
 Dobbiamo ricordarci di tutte queste scuole. 
 
 Gli economisti classici sono Batist, Malthus, etc...
+
+## Fisiocrazia
+
+Questa corrente di pensiero ha come esponente Kenè. Alla fine della sua carriera di medico inizia a scrivere articoli sulle enciclopedie. L'agricoltura è l'unico settore che fornisce un prodotto netto. Nell'industria abbiamo la trasformazione. Kenee suggerisce di puntare tutto sull'agricoltura. La ricchezza si crea quando si produce, non quando si trasforma.
+
+Prima ancora di Smith Kenee viene considerato l'esponente. Parla della Tavola Economica. Classe sterile, che non mettono e non levano. Le classi sociali vengono viste in base a quello che fanno. Se si tratta di propritari è l'immobile. Tableau Economi que, Quesnay, non kenè o kenee. 
+
+D D, M M M e Mp Mp.

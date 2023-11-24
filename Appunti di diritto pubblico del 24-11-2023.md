@@ -27,3 +27,5 @@ Articolo 77. Decreto legge e legge di conversione. Procedimenti duali. Quando so
 Iniziativa legislativa, chi ha il potere di fare proposte? Iniziativa legislativa. Articolo 71 della costituzione. Iniziativa. La percentuale preponderande sono frutto di un'iniziativa legislativa dal governo, popolare, regionale hanno un'incidenza marginale. Articolo 94. Rapporto di fiducia, c'è un lato passivo. Il governo fa valere la propria maggioranza. O approvate questo testo o io mi dimetto. Il governo ricatta le camere in questo modo. Avendo la maggioranza fa valere la maggioranza, e ottiene l'approvazione. Questo è fisiologico. Il governo è il comitato direttivo del parlamento, quindi lo dirigge. Il risultato finale è questo.
 
 Studiando il sistema delle fonti noi studiamo. Pausa.
+
+Primo dei due atti normativi primari del governo, il decreto legislativo. Deroghe rispoetto al principio per cui la funzione legislativa è esercitata dalle camere. Articolo 76 della costituzione. 

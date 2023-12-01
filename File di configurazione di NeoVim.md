@@ -2,3 +2,6 @@ Ecco il file di configurazione di Neovim presente nel percorso *~/.config/nvim/i
 
 - [file di configurazione](init.vim)
 - Altrimenti cerca [nvim](?q=nvim) sperando di trovare qualcosa
+
+Tags:
+init.vim

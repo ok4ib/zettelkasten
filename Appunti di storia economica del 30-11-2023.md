@@ -34,4 +34,5 @@ I mercantilisti confondono la ricchezza con la moneta.
 
 Divisione del lavoro. Impiego produttivo del capitale. Divisione internazionale del lavoro, specializzazione degli stati in quello in cui sono più bravi.  
 
-Alcune leggi dicono che se anche una bassissima percentuale del prodotto è fatta in italia il prodotto è italiano. In una società capitalistica in valore non coincide più con il lavoro contenuto nel bene. 
+Alcune leggi dicono che se anche una bassissima percentuale del prodotto è fatta in italia il prodotto è italiano. In una società capitalistica in valore non coincide più con il lavoro contenuto nel bene.
+

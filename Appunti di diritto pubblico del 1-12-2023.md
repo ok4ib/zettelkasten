@@ -13,4 +13,10 @@ Il muro di Berlino viene fatto nel 61. Valle del Reno. Se hai  degli interessi i
 
 Regole uniformi sono funzionali in un mercato uniforme. Il mercato sono regole. 
 
-Il mercato non è un'entità che vive di vita proprio, è formato da regole. Articolo 5 del Trattato su funzionamento dell'unione europea. Nel secondo trattato   
+Il mercato non è un'entità che vive di vita proprio, è formato da regole. Articolo 5 del Trattato su funzionamento dell'unione europea. Nel secondo trattato
+
+Le organizzazioni internazionali funzionano in base ai trattati internazionali. Ci sono altre due cose che caratterizzano l'unione europea rispetto ad altre organizzazioni internazionali, l'effetto diretto e il rinvio pregiudiziale.
+
+Gli organi dell'unione europea: Un parlamento, il consiglio dell'unione europea, banca centrale europea e la corte di giustizia europea. Rinvio pregiudiziale. Questioni di validità e questioni di interpretazione, quando non si sa come si deve interpretare una legge. Il trattato si deve trattare come una legge le 1957, dato che il trattato venne stipulato in quella data. Quindi si applicano i criteri di risoluzione delle antinomie. 
+
+

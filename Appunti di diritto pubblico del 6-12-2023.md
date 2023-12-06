@@ -13,4 +13,10 @@ Il sistema delle fonti europee è organizzato su basi sostanziali, sulla base de
 
 La corte di giustizia, quando la direttiva acquista effetto diretto, può fare. Si può chiedere un risarcimento allo stato che non riconosce diritti europei. 
 
+Una caratteristica del regolamento dell'unione europea è la sua diretta applicabilità. La diretta applicabilità è una qualità dei regolamenti. Non è richiesto nessun atto di recepimento da parte dello stato. Il regolamento si impone direttamente una volta formato, non è richiesta alcuna manifestazione di volontà da parte dello stato. L'effetto diretto è una qualità delle direttive, non è stabilito dal trattato europeo però. Le direttive a certe condizioni acquistano effetto diretto. L'efficacia diretta è una qualità di alcune norme di diritto dell'unione europea. L'efficacia diretta è la qualità di poter essere utilizzata dagli giudici internazionali.
 
+Il punto di vista nazionale. Articolo 189  del trattato europeo. Il trattato trova sicuro fondamento dell'articolo 11 della costituzione. Quell'articolo viene scritto pensando alle nazioni unite. Non importa il rango della legge nazionale. art 170 cortecostituzionale.it 
+
+Teoria dei contro limiti. Le materie attribuite all'unione europea hanno una disciplina speciale. Il diritto dell'unione europea prevale per qualsiasi materia tranne per la teoria dei contro limiti. Il problema di fondo è la competence competence, chi comanda chi comanda. La corte di giustizia ha sempre inseguito le corti costituzionali. La corte di giustizia non si occupa di diritti. 
+
+I contro limiti sono l'ultima opzione, "arma fine di mondo". Articolo 117 della costituzione.

@@ -53,4 +53,10 @@ Y = Reddito,
 S = Risparmio. 
 Curve ISLM di  Keynes.
 
-Ecco la politica del deficit spending come funziona. Quindi è la domanda che determina il reddito e quindi gli investimenti determinano l'economia. 
+Ecco la politica del deficit spending come funziona. Quindi è la domanda che determina il reddito e quindi gli investimenti determinano l'economia. Effetto moltiplicatore, Saggio di interesse e Reddito. 
+
+## Storia Economica: La seconda guerra mondiale
+
+Operazioni militari per mare, per cielo e per terra. La Germania si è talmente ripresa che vuole sfondare e fare la guerra. Nel 1941 abbiamo la prima operazione barbarossa. Anche il Giappone ha delle mire espansionistiche. Patto di acciaio, accordo col la Germania. Si pensava che quella con la Francia fosse una guerra lampo. 
+
+Distruzione creatrice. Dopo la guerra scompaiono le dittature. Quando la guerra finisce tutti devono ricostruire. Guerra fredda. Politica degli stati uniti, cash and carry, land-lease. Il 50% del reddito di uno stato va alla guerra. 

@@ -16,7 +16,7 @@ Mi ammalerò e perderò la testa.
 
 Ma, fino a che io resto lucido,
 Dovrò ricordare che sono da solo su questa terra
-E che nulla è mio perché nulla io valgo.
+E che nulla è mio perché poco io valgo.
 ```
 
 ## Il sapore della cenere

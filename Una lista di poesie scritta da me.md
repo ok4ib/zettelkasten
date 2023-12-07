@@ -1,3 +1,23 @@
+## Fino a che resto lucido
+```
+Dovrò ricordare che sono mediocre e stupido,
+Che non valgo più degli altri,
+Che nulla mi è dovuto
+E che potrei non essere mai capito e compreso
+
+Dovrò ricordare che perderò i miei cari,
+Che resterò da solo,
+Che tutto un giorno andrà via,
+E niente avrà più significato.
+
+Dovrò ricordare che sarò in preda al panico
+E alla malattia,
+Mi ammalerò e perderò la testa.
+
+Ma, fino a che resto lucido,
+Dovrò ricordare che sono da solo su questa terra
+E che nulla è mio perché nulla io valgo.
+```
 
 ## Il sapore della cenere
 ```

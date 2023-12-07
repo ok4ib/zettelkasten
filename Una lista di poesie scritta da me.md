@@ -1,4 +1,4 @@
-## Fino a che resto lucido
+## Fino a che io resto lucido
 ```
 Dovrò ricordare che sono mediocre e stupido,
 Che non valgo più degli altri,
@@ -14,7 +14,7 @@ Dovrò ricordare che sarò in preda al panico
 E alla malattia,
 Mi ammalerò e perderò la testa.
 
-Ma, fino a che resto lucido,
+Ma, fino a che io resto lucido,
 Dovrò ricordare che sono da solo su questa terra
 E che nulla è mio perché nulla io valgo.
 ```

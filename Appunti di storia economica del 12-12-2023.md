@@ -22,4 +22,16 @@ Nel 1971 è un periodo di Golden Age, espansione economica. Ci sta la crisi petr
 
 Ci fu una conferenza a Yalta, nella Crimea. In questo momento parte la costruzione del muro di Berlino, per dividere la Germania in due parti. 
 
-Ci sono altri accordi economici, GATT OECE, CECA. Si crea la famosa cortina di ferro. "Germany is our problem", Morghentau. L'onu istituisce l'UNRA. Piano Marshall e ERP sono la stessa cosa. European Recovery Program, un piano attraverso cui gli USA aiutano gli altri paesi. Gli stati uniti non hanno dato denaro ma beni e materie prime.  
+Ci sono altri accordi economici, GATT OECE, CECA. Si crea la famosa cortina di ferro. "Germany is our problem", Morghentau. L'onu istituisce l'UNRA. Piano Marshall e ERP sono la stessa cosa. European Recovery Program, un piano attraverso cui gli USA aiutano gli altri paesi. Gli stati uniti non hanno dato denaro ma beni e materie prime.
+
+Il COMECON favorisce l'integrazione tra la produzione dei vari paesi. Partono le nazionalizzazioni. Le origini della banca di inghilterra. Andavano a nazionalizzare i settori in piena espansione. 
+
+Rebecca West, processo di norimberga.
+
+Welfare State. I vari paesi si dotano di politiche di tipo assistenziale. Assistenza " Culla alla tomba". Beveridge era liberale. 
+
+## Decolonizzazione
+
+Nasser, canale di Suez. Nome da memorizzare per l'esame. 
+
+Nasce il terzo mondo, l'economia emergente. 

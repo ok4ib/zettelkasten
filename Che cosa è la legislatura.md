@@ -1,0 +1,1 @@
+La legislatura è quel procedimento che avviene ogni 5 anni (Di norma) che consente di stabilire i membri di entrambe le due camere, La camera dei deputati ed il senato della repubblica. La prossima legislatura sarà nel 2028. 

@@ -24,4 +24,4 @@ Toyota mette al primo posto le persone che lavorano da Toyota. Noi non abbiamo l
 
 Ad un certo punto si parla di development state (Stati sviluppatori). Da soli non possono funzionare, si sviluppano quindi le banche, che finanziano e sostengono gli investimenti. Per un investitore privato che riceve incentivi e vantaggi comincia a pensare. La banca coreana sviluppò il settore tessile ma poi si concentrò su altro. Una volta inserite sul territorio. Lo stato sviluppatore è uno stato che orienta la politica industriale, che porta allo sviluppo industriale.
 
-
+Per l'Argentina non ha funzionato. Multilateral Development Bank, progetti di sviluppo, sembra un po' una banca mista. Per i paesi del terzo mondo ci si inventa un altro tipo di banca. Lo scopo principale di questa banca è quello di dare supporto, fare servizi di consulenza. 

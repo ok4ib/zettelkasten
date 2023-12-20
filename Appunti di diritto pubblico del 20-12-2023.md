@@ -15,3 +15,17 @@ La vita ha un valore per la costituzione. Anche le disposizioni costituzionali v
 Riassunto: La costituzione contiene al proprio interno una serie di diritti, fonda una serie di diritti. Ovvero, ad una serie di posizioni giuridiche soggettive è riconosciuta copertura internazionale. Da due punti di vista: 1. La ultra attività delle disposizioni costituzionali. La disposizione costituzionale, non ha soltanto un  effetto regolatorio.
 
 SEconda garanzia: Il fatto che questi diritti siano contenuti in una norma costituzionale, di sottoporre al controllo di costituzionalità delle leggi che contengono. Nelle migliaia delle leggi ci sono scritte leggi che rispettano la costituzione. 
+
+Quale è il problema che pone l'esempio che abbiamo fatto da ultimo?
+
+Il problema è la coesistenza. Non esiste una gerarchia all'interno della costituzione, non ci sono diritti più importanti degli altri. Non ci sono diritti superiori. La costituzione è il frutto di un compromesso, fra forze politiche, culturali diverse. Una ragione di carettere teorico. Carl Smith, i modelli di tutela della costituzione, teorico del nazismo. Scrive un piccolo saggio, particolarmente illuminante. La tirannia dei valori. I sistemi giuridici devono essere calati sui caratteri fattuali. Quel particolare diritto dovrà sempre prevalere. Tema della tutela del diritto di credito. Garantire i diritti di credito è un'esigenza forte. Se riconoscesimo un valore assoluto significherebbe non guardare anche l'altra parte. 
+
+C'è una terza ragione di ordine tecnico, di carattere applicativo. Interruzione volontaria di gravidanza. Il costo dei diritti, libro americano. Tutti i diritti hanno un costo. L'idea che sta dietro a queste classificazioni è che solo i diritti sociali hanno un costo. Cosa ci dicono gli autori di questo libro. Non ci sono diritti senza un costo. C'è sempre una dimensione finanziaria da tenere in considerazione. 
+
+Ad un diritto corrisponde un obbligo. Tutelare un diritto ha un impatto su di un altro diritto o su di una responsabilità. Non essendoci una gerarchia di diritti, ed essendo questi molteplici, questi vanno bilanciati.
+
+Le regole del bilanciamento: La regola del contenuto essenziale. Nessun diritto può avere una pretesa assoluta. Tendenzialmente non può spingersi fino al punto di negare completamente il contenuto essenziale del diritto opposto. Non si può arrivare al sacrificio completo di uno dei diritti.
+
+Il sacrificio che viene imposto deve avere 3 caratteristiche: Deve essere necessario, idoneo e proporzionale. Proporzionale, il vantaggio no n può essere sproporzionale. 
+
+Bilanciamento sul piano del tempo. Esigenza che si pone fra due soggetti, il legislatore che fa le leggi. Sta incidendo su una pluralità. Spesso si guarda al bilanciamento si trascura il legislatore. Il bilanciamento si fonda sul principio di uguaglianza.

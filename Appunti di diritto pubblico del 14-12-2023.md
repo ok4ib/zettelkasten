@@ -19,3 +19,7 @@ Negli anni 70 si ha la stagnazione dopo l'inflazione. Il petrolio rappresenta la
 ## Neoliberismo
 
 Disoccupazione che si può mantenere rispetto all'inflazione. L'inflazione è un problema più grande della disoccupazione. Effetto Trickle-down. Reagan e Thatcher. Scuola della supply side. Deregulation. 
+
+Liberalizzazione, apertura delle frontiere ai capitali stranieri.
+
+Primo shock petrolifero. Gli USA che appoggiano Israele affondando assieme a loro. Petrodollari. Stagflazione. Jobless Growth. "Lean Production", produzione snella. Delocalizzazione, Decentramento produttivo. Just in time, flessibilità. Lavoro di gruppo

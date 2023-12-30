@@ -1,4 +1,4 @@
-﻿# Problema principale con il gruppo Italy Scratch 141 
+# Problema principale con il gruppo Italy Scratch 141 
 
 Il problema attuale del gruppo Italy Scratch 141 è che gli studenti **provano a rompere il rapporto studente-tutor**, finendo per non prendere sul serio la lezione e **interrompendo i compagni e la spiegazione**.
 

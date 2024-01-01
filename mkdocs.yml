@@ -38,5 +38,5 @@ theme:
         name: Switch to system preference
 use_directory_urls: false
 nav:
-  - Home: mirror/README.md
+  - Home: README.md
   - Licenza: mirror/LICENSE.md

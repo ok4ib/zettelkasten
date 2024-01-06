@@ -20,3 +20,5 @@
 
 - 20240106-1838 Scuola classica, fisiocrazia, Adam Smith, David Ricardo, armonia della natura 
 
+- 20240106-1846 lista motivazione sogni responsabilità 
+

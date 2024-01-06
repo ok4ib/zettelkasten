@@ -22,3 +22,11 @@
 
 - 20240106-1846 lista motivazione sogni responsabilità 
 
+- 20240106-2130 Rendita differenziale, terreni coltivabili, Ricardo, fertilità 
+
+- 20240106-2202 Presupposti della rendita differenziale, produttività, Ricardo 
+
+- 20240106-2219 Differenza tra lavoro diretto ed indiretto, valore di scambio, David Ricardo, divisione del lavoro 
+
+- 20240106-2244 teoria dei costi comparati, Ricardo, globalizzazione specializzazione 
+

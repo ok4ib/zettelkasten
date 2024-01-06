@@ -63,11 +63,11 @@ no angel's face will see me.
 No route through self-destruction.
 ```
 
-## My walls keep me far from you,
+## Walls keep me far from you,
 ```
-but you won't see them.
-I'm keeping myself from falling back
-into the habit of living.
+but you won't see no fucking wall.
+I'm keeping myself beyond
+the habit of living.
 ```
 
 

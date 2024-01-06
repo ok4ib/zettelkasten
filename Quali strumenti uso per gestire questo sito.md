@@ -1,11 +1,11 @@
 # Quali strumenti uso per gestire questo sito?
 
-Pubblico gli appunti usando [GitHub Pages](https://pages.github.com/), che mi consente di trasformare una cartella con dei file in un sito web.
+Pubblico gli appunti usando [GitHub Pages](https://pages.github.com/).
 
-Per gestire e sincronizzare la cartella (Chiamata repository) uso [Git](https://it.wikipedia.org/wiki/Git_(software)), un software che uso su tutti i miei dispositivi.
+Per gestire e sincronizzare la cartella degli appunti (Chiamata repository) uso [Git](https://it.wikipedia.org/wiki/Git_(software)), un software che uso su tutti i miei dispositivi.
 
 
-[MkDocs](https://www.mkdocs.org/), un generatore di siti web statici. Esso converte la cartella di file in un sito web!
+[MkDocs](https://www.mkdocs.org/), un generatore di siti web statici. Esso converte la cartella dei file degli appunti in un sito web!
 
 I file testuali sono scritti in [Markdown](https://it.wikipedia.org/wiki/Markdown), un linguaggio testuale semplice, che mi permette di formattare facilmente i miei appunti con titoli, liste puntate, grassetto e italico.
 

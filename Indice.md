@@ -6,7 +6,7 @@
 
 - **20240106-1823** Fisiocrazia, Quesnay, legge naturale, classe sterile 
 
-- **20240106-1824** Scuola socialista, opposizione al capitalismo, Karl Marx 
+- **20240106-1824** Scuola socialista, opposizione al capitalismo, Karl Marx plus valore.
 
 - **20240106-1826** legge di Say, legge degli sbocchi, critiche e presupposti 
 

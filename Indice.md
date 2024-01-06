@@ -30,3 +30,9 @@
 
 - **20240106-2244** teoria dei costi comparati, Ricardo, globalizzazione specializzazione 
 
+- **20240106-2254** Le fonti europee, derivate, primare e convenzionali. TUE, TFUE, Euratom 
+
+- **20240106-2256** fonti europee vincolanti, direttive, regolamenti 
+
+- **20240106-2258** Territorio di uno stato, terraferma, piattaforma continentale, cittadinanza 
+

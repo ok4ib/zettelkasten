@@ -36,3 +36,5 @@
 
 - **20240106-2258** Territorio di uno stato, terraferma, piattaforma continentale, cittadinanza 
 
+- **20240107-0101** Parlamento europeo 
+

@@ -6,13 +6,13 @@
 
 - **20240106-1823** Fisiocrazia, Quesnay, legge naturale, classe sterile 
 
-- **20240106-1824** Scuola socialista, opposizione al capitalismo, Karl Marx plus valore.
+- **20240106-1824** Scuola socialista, opposizione al capitalismo, Karl Marx plus valore. Plus valore, aumento capitale
 
 - **20240106-1826** legge di Say, legge degli sbocchi, critiche e presupposti 
 
 - **20240106-1828** Una lista delle scuole economiche di maggior rilievo 
 
-- **20240106-1832** Karl Marx, plus valore, alienazione 
+- **20240106-1832** Karl Marx, plus valore, alienazione, struttura, sovrastruttura 
 
 - **20240106-1834** Scuola neoclassica, metodo deduttivo, matematico 
 
@@ -35,4 +35,34 @@
 - **20240106-2256** fonti europee vincolanti, direttive, regolamenti 
 
 - **20240106-2258** Territorio di uno stato, terraferma, piattaforma continentale, cittadinanza 
+
+- **20240107-1443** Diventare data analyst, data manipulation, data cleansing, cleaning, data scientist. 
+
+- **20240107-1507** Karl Marx, plus valore, alienazione, capitalismo, merce. 
+
+- **20240107-1752** curva di indifferenza, paniere di beni 
+
+- **20240107-1759** utilità marginale, neoclassici, marginalisti, legge di gossen, utilità marginale decrescente 
+
+- **20240107-1800** utilità marfinale esempio 
+
+- **20240107-1807** plus valoree 
+
+- **20240107-1859** massimizzare il profitto, costo marginale, ricavo, profitto 
+
+- **20240107-2219** Germania, USA, America, seconda guerra mondiale 
+
+- **20240107-2221** distruzione creatrice in italia, seconda guerra mondiale 
+
+- **20240107-2222** cash and carry,lend lease, armi, affitti e prestiti 
+
+- **20240108-1132** diventare seo, data analyst, data scientist, università 
+
+- **20240108-1133** accordi di  Bretton Woods, seconda guerra mondiale 
+
+- **20240108-1141** stato assoluto, autorità, società 
+
+- **20240108-1144** stato totalitario, totalitarismo, dittatura, stato di polizia, partito unico 
+
+- **20240108-1156** stato liberale, divieto di mandato imperativo, stato monoclasse 
 

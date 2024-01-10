@@ -66,3 +66,11 @@
 
 - **20240108-1156** stato liberale, divieto di mandato imperativo, stato monoclasse 
 
+- **20240108-1220** stato monoclasss, borghesia, suffraggio ristretto 
+
+- **20240108-1223** stato monoclasse, liberale, borghesia, capitalismo, proprietà privata 
+
+- **20240110-1551** argomenti da studiare di matematica, esame 
+
+- **20240110-1553** serie di potenze, intervallo e raggio di convergenza 
+

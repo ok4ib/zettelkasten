@@ -98,7 +98,6 @@
 - **20240111-2152** Jobless growtth, aumento dell'offerta ma non dei posti di lavoro 
 
 - **20240111-2153** lean production, toyota production, togliere gli sprechi 
-=======
-- **20240107-0101** Parlamento europeo 
->>>>>>> cbaad86aba8204560f379345a8b2496003d2898a
+
+- **20240107-0101** Parlamento europeo commissione europea
 

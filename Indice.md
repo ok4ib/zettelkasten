@@ -58,7 +58,7 @@
 
 - **20240108-1132** diventare seo, data analyst, data scientist, università 
 
-- **20240108-1133** accordi di  Bretton Woods, seconda guerra mondiale 
+- **20240108-1133** accordi di  Bretton Woods, seconda guerra mondiale, GATT, WTO, OMC 
 
 - **20240108-1141** stato assoluto, autorità, società 
 
@@ -73,4 +73,28 @@
 - **20240110-1551** argomenti da studiare di matematica, esame 
 
 - **20240110-1553** serie di potenze, intervallo e raggio di convergenza 
+
+- **20240110-1847** gatt e wto, commercio internazionale 
+
+- **20240110-2027** BIRS, Banca internzionale per la ricostruzione e lo sviluppo, accordi di bretton woods 
+
+- **20240111-0931** Keeep it simplle, copy what works 
+
+- **20240111-1009** welfare state, stato del benessere, gravidanza, vecchiaia 
+
+- **20240111-1232** deconolizzazione, seconda guerra mondiale, autodeterminazione dei popoli, colonialismo 
+
+- **20240111-1306** Corso Informatica, azienda 
+
+- **20240111-1428** il lato negativo della decolonizzazione, sviluppo, colonizzatori, indipendenza 
+
+- **20240111-1509** Trickle down economics, Ronald Reagan, ricchi, tasse poveri, tassazione 
+
+- **20240111-1749** L'italia prima della seconda guerra mondiale, piano marshall dopo la guerra 
+
+- **20240111-1752** Golden Age of capitalism, stagflazione 
+
+- **20240111-2152** Jobless growtth, aumento dell'offerta ma non dei posti di lavoro 
+
+- **20240111-2153** lean production, toyota production, togliere gli sprechi 
 

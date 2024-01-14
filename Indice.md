@@ -101,3 +101,5 @@
 
 - **20240107-0101** Parlamento europeo commissione europea
 
+- **20240113-1643** crollo dell'unione sovietica, democrazia e libertà 
+
